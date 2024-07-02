@@ -1,4 +1,4 @@
-# FO-prover, Marcin Brojek
+# FO-prover
 
 The objective of this assignment is to build a prover for tautologies of first-order
 logic based on Herbrand’s theorem and the Davis-Putnam SAT solver. The solution program must read the standard input stdin. The input consists of a single line encoding a formula of first-order logic according to the following Backus-Naur grammar:
